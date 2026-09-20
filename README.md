@@ -67,6 +67,7 @@ Anthropic SDK를 직접 써서 에이전트 루프를 배워보는 토이 프로
 궁금한 점이 있거나 함께 이야기 나누고 싶다면 편하게 연락 주세요.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Crowtit517-1c1f24?style=flat-square&logo=github&logoColor=white)](https://github.com/Crowtit517)
+[![Gmail](https://img.shields.io/badge/Gmail-johnmin725%40gmail.com-ff9142?style=flat-square&logo=gmail&logoColor=0a0b0d)](mailto:johnmin725@gmail.com)
 
 ---
 
